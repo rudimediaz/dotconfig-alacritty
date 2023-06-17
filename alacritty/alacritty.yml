@@ -8,7 +8,7 @@ font:
     style: Bold
 
   italic:
-    family:  CaskaydiaCove NFM
+    family: CaskaydiaCove NFM
     style: Italic
 
   bold_italic:
